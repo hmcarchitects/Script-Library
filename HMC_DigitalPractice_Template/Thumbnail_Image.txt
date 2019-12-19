@@ -1,1 +1,1 @@
-<img src="https://github.com/hmcarchitects/HMC-Grasshopper-Scripts/blob/master/HMC_DigitalPractice_Template/HMC_DigitalPractice_Template.JPG" width="800" />
+img src="https://raw.githubusercontent.com/hmcarchitects/HMC-Grasshopper-Scripts/master/HMC_DigitalPractice_Template/HMC_DigitalPractice_Template.JPG"
