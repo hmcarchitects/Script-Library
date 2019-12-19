@@ -1,1 +1,1 @@
-<img src="img/HMC_DigitalPractice_Template.JPG">
+<img src="HMC_DigitalPractice_Template.JPG">
