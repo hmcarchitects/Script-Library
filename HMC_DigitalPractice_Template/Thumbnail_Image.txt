@@ -1,4 +1,0 @@
-{
-    "![Kernel & front-end diagram](img/HMC_DigitalPractice_Template.png)"
-   ]
-  },
